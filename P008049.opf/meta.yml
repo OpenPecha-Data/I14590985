@@ -1,15 +1,16 @@
-id: opecha:P008049
+id: P008049
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ872
   title: བརྡ་སྤྲོད་ངག་སྒྲོན་གྱི་འགྲེལ་པ་ཚིག་གསལ
-  volume:
+  author: ''
+  volumes:
     a58a517de48c4edeb93c80c4d6b7b095:
       image_group_id: I1CZ933
       title: Volume 1 of brda sprod ngag sgron gyi 'grel pa tshig gsal
       volume_number: 1
       total_pages: 154
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བརྡ་སྤྲོད་ངག་སྒྲོན་གྱི་འགྲེལ་པ་ཚིག་གསལ
   author: ''
