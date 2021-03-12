@@ -5,11 +5,12 @@ source_metadata:
   title: བརྡ་སྤྲོད་ངག་སྒྲོན་གྱི་འགྲེལ་པ་ཚིག་གསལ
   author: ''
   volumes:
-    99da08e772d640ab9bc268f65bcdbe21:
+    a58a517de48c4edeb93c80c4d6b7b095:
       image_group_id: I1CZ933
-      title: ''
+      title: Volume 1 of brda sprod ngag sgron gyi 'grel pa tshig gsal
       volume_number: 1
       total_pages: 154
+      base_file: v001.txt
 ebook_metadata:
   title: བརྡ་སྤྲོད་ངག་སྒྲོན་གྱི་འགྲེལ་པ་ཚིག་གསལ
   author: ''
